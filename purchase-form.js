@@ -110,7 +110,8 @@ window.onload = function(){
     );
     
     form.append( 
-         $("<span><h2><b>Choose Your Colour / Size (&pound;10.00 plus &pound;2 shipping)</b></h2></span>");
+         $("<span><h2><b>Choose Your Colour / Size (&pound;10.00 plus &pound;2 shipping)</b></h2></span>")
+    );
     
     form.append(select);
     
