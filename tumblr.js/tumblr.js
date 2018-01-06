@@ -1,4 +1,3 @@
-<script type="text/javascript">// <![CDATA[
 window.onload = function(){
     
     var select = $("<select/>", 
@@ -145,4 +144,3 @@ window.onload = function(){
     
     $("#buy").append(form);
 }
-// ]]></script>
